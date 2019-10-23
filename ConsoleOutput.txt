@@ -1,0 +1,34 @@
+Maitreyas-MacBook-Air:Assignment 2 final maitreyasatavalekar$ python Assignment2SMDM.py > Assignment2SMDM.txt
+Not Authorized to view.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Calm down. Rate limit reached. Waiting for 15 min window to pass...
+Not Authorized to view.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Not Authorized to view.
+Not Authorized to view.
+Calm down. Rate limit reached. Waiting for 15 min window to pass...
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Request is understood but refused.
+Typical 404 Not found.
+Request is understood but refused.
+Request is understood but refused.
+Typical 404 Not found.
+Calm down. Rate limit reached. Waiting for 15 min window to pass...
+Request is understood but refused.
+Maitreyas-MacBook-Air:Assignment 2 final maitreyasatavalekar$ 
